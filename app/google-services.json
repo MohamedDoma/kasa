@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "755953531140",
+    "firebase_url": "https://twasool-b4ddc-default-rtdb.firebaseio.com",
+    "project_id": "twasool-b4ddc",
+    "storage_bucket": "twasool-b4ddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755953531140:android:f5be21310deb3f723eb851",
+        "android_client_info": {
+          "package_name": "com.example.kassa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755953531140-ffi2kojtlf91ul3d676t26pfgm2tpmnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyGM4OS5bfjUU_ZoPZs_-soGLs-MLCZAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755953531140-ffi2kojtlf91ul3d676t26pfgm2tpmnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755953531140:android:17372b38ece9677d3eb851",
+        "android_client_info": {
+          "package_name": "com.example.twasool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755953531140-ffi2kojtlf91ul3d676t26pfgm2tpmnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyGM4OS5bfjUU_ZoPZs_-soGLs-MLCZAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755953531140-ffi2kojtlf91ul3d676t26pfgm2tpmnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755953531140:android:26fd4bda8162b80e3eb851",
+        "android_client_info": {
+          "package_name": "com.example.twasoolesha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755953531140-ffi2kojtlf91ul3d676t26pfgm2tpmnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyGM4OS5bfjUU_ZoPZs_-soGLs-MLCZAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755953531140-ffi2kojtlf91ul3d676t26pfgm2tpmnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
